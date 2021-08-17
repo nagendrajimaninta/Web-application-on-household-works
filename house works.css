@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(48, 143, 84);
+}
+ img{
+    padding-left: 90px;
+    padding-top: 90px;
+    padding-right: 30px;
+    height: 200px;
+    width: 200px;
+    display: inline;    
+    justify-content: space-between;
+}                                              
+.reg{
+    display: flex;
+    justify-content: space-between;
+}
+form{
+height: 500px;
+width: 500px;
+background-color:  rgb(48, 143, 84);
+background-image: url("https://th.bing.com/th/id/OIP.NnPH3vieip02wxNxA0Ds1QHaE8?w=225&h=180&c=7&o=5&dpr=1.5&pid=1.7");
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+opacity: 1.0;
+padding-left: 200px;
+padding-top: 100px;
+color: rgb(6, 7, 7);
+font-size: 15px;
+border: 10px solid rgb(205, 50, 102);
+border-radius: 1000px;
+}
+input:hover{
+    color:green;
+    border: 10px solid rgb(205, 50, 102);
+    
+}
+button:hover{
+    background-color: rgb(4, 139, 27);
+    font-size: 14px;
+}
+img{
+    border: 10px solid rgb(205, 50, 102);
+    border-radius: 40%;
+    align-items: center;
+
+}
+image:hover{
+    box-shadow: brown;
+}
